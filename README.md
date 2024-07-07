@@ -8,7 +8,7 @@ This project was built with the next.js tutorial guide while also using an exter
 
 ### Overview
 
-Using the api endpoint from my [blog api](https://github.com/alex-lvl/blog-api) project, I created this personal blog app to group together and list all my published blog posts from the external blog api. 
+Using the api endpoint from my [blog api](https://github.com/prosperitty/blog-api) project, I created this personal blog app to group together and list all my published blog posts from the external blog api. 
 
 ### Objectives
 
